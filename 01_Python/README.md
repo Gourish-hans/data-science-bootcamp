@@ -47,3 +47,45 @@ lessons/
 ## ✅ Status
 
 - [x] Lesson 1 Completed
+
+################################################################################################################################################################################
+
+# 🐍 Python
+
+## Progress
+
+### ✅ Lesson 1 - Python Memory Model
+- Objects
+- Variables
+- References
+- Identity (`id()`)
+- Garbage Collection
+
+### ✅ Lesson 2 - Variables & Data Types
+- Variables
+- Variable Naming Rules
+- Variable Naming Conventions
+- Dynamic Typing
+- Data Types
+  - int
+  - float
+  - str
+  - bool
+  - NoneType
+- Built-in Functions
+  - type()
+  - id()
+- Type Conversion
+  - int()
+  - float()
+  - str()
+  - bool()
+
+---
+
+## Status
+
+✅ Lesson 2 Completed
+
+Next:
+- Lesson 3 - Operators
